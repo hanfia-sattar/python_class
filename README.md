@@ -13,7 +13,7 @@
 - open file in notepad and type ->  print("Hello World") -> press Enter
 - open anaconda prompt -> Go to the directory where the file is saved
 - then type  cd <file path>
-- python (file name)
+- type python (file name)
 
 ## Using VS Code
 - create file on vs with extention py 
@@ -21,6 +21,8 @@
 - then press ctrl + F5
 - the result  will be there
 ## Jupyter Notebook
-create file on jupyter Notebook 
-type  ->  type ->  print("Hello World")
+create new python3(ipykernal) on jupyter Notebook 
+type  ->  print("Hello World") then click Run button
 ## Google Colab
+create new notebook
+type  ->  print("Hello World") then click Run button
